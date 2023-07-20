@@ -1,0 +1,10 @@
+{
+  "name": "nodedemo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "ffi-napi": "^4.0.3",
+    "python-shell": "^5.0.0"
+  }
+}
